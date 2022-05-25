@@ -1,5 +1,7 @@
 package net.javahippie.sqlmapping.album.web;
 
+import net.javahippie.sqlmapping.album.db.Album;
+
 import java.time.LocalDate;
 import java.util.Objects;
 

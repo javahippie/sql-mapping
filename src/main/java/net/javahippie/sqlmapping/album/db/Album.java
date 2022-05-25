@@ -1,4 +1,4 @@
-package net.javahippie.sqlmapping.album.web;
+package net.javahippie.sqlmapping.album.db;
 
 import java.time.LocalDate;
 

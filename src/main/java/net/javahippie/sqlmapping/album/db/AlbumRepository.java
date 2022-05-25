@@ -1,6 +1,5 @@
 package net.javahippie.sqlmapping.album.db;
 
-import net.javahippie.sqlmapping.album.web.Album;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
